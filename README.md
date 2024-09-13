@@ -19,4 +19,4 @@ CogniVix is a tool that extracts text from images using Optical Character Recogn
   - **Plotly:** For data visualization.
 
 **License:**
-This project is licensed under the MIT License. See the LICENSE(https://opensource.org/license/MIT) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/license/MIT) file for more information.
